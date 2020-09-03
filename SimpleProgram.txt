@@ -1,0 +1,14 @@
+/**@author Gregory Eganovi
+  *@since 09/02/2020
+  *@version 1.0
+  *
+  * Description: Simple program in Java that prints a sentence on screen.
+  */
+
+import java.io.PrintStream;
+
+public class SimpleProgram{
+	public static void main(String[] args) {
+        	System.out.println("Simple program for Lab 1");
+	}
+}
